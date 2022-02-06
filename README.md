@@ -11,7 +11,7 @@
   
 <p>Перед вами человек, которому нефег делать</p>
 
-<img src="https://gpvc.arturio.dev/Xasya" />
+<img style="position:relative;bottom:20px" src="https://gpvc.arturio.dev/Xasya" />
 
 <div> <!-- Типо для удобства ;D -->
 <a href="https://t.me/izoix"><img width="30px" src="tg.png"></a>

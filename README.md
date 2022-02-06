@@ -6,15 +6,21 @@
 
 <img src="banner.png">
 
+<br>
+<br>
+  
+<p>Перед вами человек, которому нефег делать</p>
+
+<img src="https://gpvc.arturio.dev/Xasya" />
+
 <div> <!-- Типо для удобства ;D -->
 <a href="https://t.me/izoix"><img width="30px" src="tg.png"></a>
 <a href="https://dsc.bio/xasya"><img width="30px" src="ds.png"></a>
 <a href="https://instagram.com/mixa.ofc"><img width="30px" src="insta.png"></a>
-</div>
+</div> 
+  
+<br>
 
-<p>Перед вами человек, которому нефег делать</p>
-
-<img src="https://gpvc.arturio.dev/Xasya" />
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xasya)](https://github.com/Xasya)
 

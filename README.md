@@ -4,7 +4,7 @@
 <div align="center">
 <p>Ахайо! :D</p>
 
-<img src="banner.png">
+<img src="mixail.png">
 
 <br>
 <br>

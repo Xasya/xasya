@@ -5,12 +5,6 @@
 </p> 
 
 <img src="banner.png">
-
-<div style="display:inline-flex;position:relative;width:2em;height:2em;margin-top:10px;margin-right:70px">
-<img src="tg.png">
-<img style="margin-left:6px;" src="ds.png">
-<img style="margin-left:5px;" src="insta.png">
-</div>
  
 <p style="font-size:20px;color:pink;">Перед вами человек, которому нефег делать</p>
  
@@ -21,5 +15,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xasya&theme=dark&show_icons=true)](https://github.com/Xasya)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xasya&theme=dark&show_icons=true)](https://github.com/Xasya)
-
+ 
 </div> 

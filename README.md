@@ -21,9 +21,6 @@
   
 <br>
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Xasya)](https://github.com/Xasya)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xasya&theme=dark&show_icons=true)](https://github.com/Xasya)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xasya&theme=dark&show_icons=true)](https://github.com/Xasya) 

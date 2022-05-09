@@ -4,7 +4,7 @@
 <div align="center">
 <p>Ахайо! :D</p>
 
-<img src="mixail.png" width="600px" />
+<img src="mixail.png" width="600px" /> <!-- Кста, ушки ей я дорислвывал сам, как по мне кривовато, но терпимо.. -->
 
 <br>
 <br>

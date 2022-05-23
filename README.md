@@ -4,27 +4,15 @@
 <div align="center">
 <p>Ахайо! :D</p>
 
-<img src="mixail.png" width="600px" /> <!-- Кста, ушки ей я дорислвывал сам, как по мне кривовато, но терпимо.. -->
-
-<br>
-<br>
-  
-<p>Перед вами человек, которому нефег делать</p>
-
-<img src="https://gpvc.arturio.dev/Xasya" />
-
-<div> <!-- Типо для удобства ;D -->
-<a href="https://t.me/izoix"><img width="30px" src="tg.png"></a>
-<a href="https://dsc.bio/xasya"><img width="30px" src="ds.png"></a>
-<a href="https://instagram.com/mixa.ofc"><img width="30px" src="insta.png"></a>
-</div> 
-  
-<br>
+<img src="mixail.png" width="600px" /> <!-- Кста, ушки ей я дорислвывал сам, как по мне кривовато, но каваи -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xasya&theme=dark&show_icons=true)](https://github.com/Xasya)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xasya&theme=dark&show_icons=true)](https://github.com/Xasya) 
 
-<!-- Ну и что? Нашёл что искал? Забыл дописать, compmaster-byte lox-->
+<img src="https://gpvc.arturio.dev/Xasya" />
+  
+<!-- Ну и что? Нашёл что искал?
+Забыл дописать, compmaster-byte lox -->
   
 </div>

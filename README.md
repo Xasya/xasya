@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xasya&theme=dark&show_icons=true)](https://github.com/Xasya) 
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1003679028802240593?bg=251525)](https://discord.com/users/1003679028802240593)
+
 <img src="https://gpvc.arturio.dev/Xasya" />
   
 Кхм, по некоторым причинам я скрыл большинство репозиториев, ибо так надо ;D

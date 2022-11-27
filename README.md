@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xasya&theme=dark&show_icons=true)](https://github.com/Xasya) 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/629971688620163093?bg=251525&idleMessage=give me neko :(&animated=true](https://discord.com/users/629971688620163093)
+[![Discord Presence](https://lanyard.cnrad.dev/api/629971688620163093?bg=251525&idleMessage=giveMeNeko:(](https://discord.com/users/629971688620163093)
 
 <img src="https://gpvc.arturio.dev/Xasya" />
   

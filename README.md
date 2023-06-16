@@ -10,11 +10,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xasya&theme=dark&show_icons=true)](https://github.com/Xasya) 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/629971688620163093?bg=251525)](https://discord.com/users/629971688620163093)
-
-<img src="https://gpvc.arturio.dev/Xasya" />
+[![Discord Presence](https://lanyard.cnrad.dev/api/629971688620163093?bg=251525&idleMessage=give%20me%20neko%20:&#40;&animated=true&hideDiscrim=true)](https://discord.com/users/629971688620163093)
   
-Кхм, по некоторым причинам я скрыл большинство репозиториев, ибо так надо ;D
+Кхм, по некоторым причинам, я скрыл большинство репозиториев, ибо так надо ;D
 
 <!-- Ну и что? Нашли то что искали? -->
 </div>
